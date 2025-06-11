@@ -49,5 +49,4 @@ run.js
 .env.production.local
 .env.local
 
-# user file
-users.js
+.idea
