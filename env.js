@@ -6,7 +6,8 @@ const env = cleanEnv(process.env, {
   ENUMERATEUSERS: bool({ default: true }),
   DESTINATION: url(),
   METADATA: url(),
-  BASEPATH: str({ default: '/' })
+  BASEPATH: str({ default: '/' }),
+  IDP_PUBLIC_URL: str()
 })
 
 module.exports = { env }
