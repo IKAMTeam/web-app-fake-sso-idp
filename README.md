@@ -1,6 +1,6 @@
 # SAML Testing
 
-- Configure env
+- Configure `.env` file
 - Install dependencies:
   ```shell
   npm install
