@@ -17,7 +17,7 @@
     "express-session": "^1.17.0",
     "extend": "^3.0.2",
     "ip": "^1.1.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "moment": "^2.24.0",
     "purecss": "^1.0.1",
     "serve-favicon": "^2.5.0",
